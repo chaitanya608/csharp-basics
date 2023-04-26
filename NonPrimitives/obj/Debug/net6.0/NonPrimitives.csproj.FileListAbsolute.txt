@@ -1,0 +1,15 @@
+/home/chaitanya/Learning/c#-udemy-mosh/NonPrimitives/bin/Debug/net6.0/NonPrimitives
+/home/chaitanya/Learning/c#-udemy-mosh/NonPrimitives/bin/Debug/net6.0/NonPrimitives.deps.json
+/home/chaitanya/Learning/c#-udemy-mosh/NonPrimitives/bin/Debug/net6.0/NonPrimitives.runtimeconfig.json
+/home/chaitanya/Learning/c#-udemy-mosh/NonPrimitives/bin/Debug/net6.0/NonPrimitives.dll
+/home/chaitanya/Learning/c#-udemy-mosh/NonPrimitives/bin/Debug/net6.0/ref/NonPrimitives.dll
+/home/chaitanya/Learning/c#-udemy-mosh/NonPrimitives/bin/Debug/net6.0/NonPrimitives.pdb
+/home/chaitanya/Learning/c#-udemy-mosh/NonPrimitives/obj/Debug/net6.0/NonPrimitives.csproj.AssemblyReference.cache
+/home/chaitanya/Learning/c#-udemy-mosh/NonPrimitives/obj/Debug/net6.0/NonPrimitives.GeneratedMSBuildEditorConfig.editorconfig
+/home/chaitanya/Learning/c#-udemy-mosh/NonPrimitives/obj/Debug/net6.0/NonPrimitives.AssemblyInfoInputs.cache
+/home/chaitanya/Learning/c#-udemy-mosh/NonPrimitives/obj/Debug/net6.0/NonPrimitives.AssemblyInfo.cs
+/home/chaitanya/Learning/c#-udemy-mosh/NonPrimitives/obj/Debug/net6.0/NonPrimitives.csproj.CoreCompileInputs.cache
+/home/chaitanya/Learning/c#-udemy-mosh/NonPrimitives/obj/Debug/net6.0/NonPrimitives.dll
+/home/chaitanya/Learning/c#-udemy-mosh/NonPrimitives/obj/Debug/net6.0/ref/NonPrimitives.dll
+/home/chaitanya/Learning/c#-udemy-mosh/NonPrimitives/obj/Debug/net6.0/NonPrimitives.pdb
+/home/chaitanya/Learning/c#-udemy-mosh/NonPrimitives/obj/Debug/net6.0/NonPrimitives.genruntimeconfig.cache
