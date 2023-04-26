@@ -1,0 +1,15 @@
+/home/chaitanya/Learning/c#-udemy-mosh/ControlFlow/bin/Debug/net6.0/ControlFlow
+/home/chaitanya/Learning/c#-udemy-mosh/ControlFlow/bin/Debug/net6.0/ControlFlow.deps.json
+/home/chaitanya/Learning/c#-udemy-mosh/ControlFlow/bin/Debug/net6.0/ControlFlow.runtimeconfig.json
+/home/chaitanya/Learning/c#-udemy-mosh/ControlFlow/bin/Debug/net6.0/ControlFlow.dll
+/home/chaitanya/Learning/c#-udemy-mosh/ControlFlow/bin/Debug/net6.0/ref/ControlFlow.dll
+/home/chaitanya/Learning/c#-udemy-mosh/ControlFlow/bin/Debug/net6.0/ControlFlow.pdb
+/home/chaitanya/Learning/c#-udemy-mosh/ControlFlow/obj/Debug/net6.0/ControlFlow.csproj.AssemblyReference.cache
+/home/chaitanya/Learning/c#-udemy-mosh/ControlFlow/obj/Debug/net6.0/ControlFlow.GeneratedMSBuildEditorConfig.editorconfig
+/home/chaitanya/Learning/c#-udemy-mosh/ControlFlow/obj/Debug/net6.0/ControlFlow.AssemblyInfoInputs.cache
+/home/chaitanya/Learning/c#-udemy-mosh/ControlFlow/obj/Debug/net6.0/ControlFlow.AssemblyInfo.cs
+/home/chaitanya/Learning/c#-udemy-mosh/ControlFlow/obj/Debug/net6.0/ControlFlow.csproj.CoreCompileInputs.cache
+/home/chaitanya/Learning/c#-udemy-mosh/ControlFlow/obj/Debug/net6.0/ControlFlow.dll
+/home/chaitanya/Learning/c#-udemy-mosh/ControlFlow/obj/Debug/net6.0/ref/ControlFlow.dll
+/home/chaitanya/Learning/c#-udemy-mosh/ControlFlow/obj/Debug/net6.0/ControlFlow.pdb
+/home/chaitanya/Learning/c#-udemy-mosh/ControlFlow/obj/Debug/net6.0/ControlFlow.genruntimeconfig.cache
