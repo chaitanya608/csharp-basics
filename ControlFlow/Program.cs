@@ -25,6 +25,11 @@ class Program
 
     // ForEachLecture.ForEachDemo();
 
-    WhileLecture.WhileDemo();
+    // WhileLecture.WhileDemo();
+
+    // var result = ControlFlowExercises.Factorial();
+    // var result = ControlFlowExercises.GuessNumber(4);
+    var result = ControlFlowExercises.FindMax();
+    Console.WriteLine(result);
   }
 }
