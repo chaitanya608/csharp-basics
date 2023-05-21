@@ -1,9 +1,5 @@
-﻿namespace ArraysLists;
+﻿// See https://aka.ms/new-console-template for more information
 
-class Program
-{
-    static void Main(string[] args)
-    {
-        Console.WriteLine("Strings section");
-    }
-}
+using Strings;
+
+Exercies.Problem2();
