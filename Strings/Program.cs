@@ -2,4 +2,4 @@
 
 using Strings;
 
-Exercies.Problem2();
+Exercies.Problem5();
